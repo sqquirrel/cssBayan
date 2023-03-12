@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(224, 224, 219);
+}
+.wrapper {
+    margin: 0 auto;
+    width: 1920px;
+}
+.meme {
+    margin:  0 auto;
+    border-top: 2px solid rgb(188, 185, 185);
+}
